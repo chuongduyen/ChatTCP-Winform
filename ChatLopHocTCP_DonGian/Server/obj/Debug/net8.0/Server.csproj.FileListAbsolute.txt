@@ -1,0 +1,14 @@
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\bin\Debug\net8.0\Server.exe
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\bin\Debug\net8.0\Server.deps.json
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\bin\Debug\net8.0\Server.dll
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\bin\Debug\net8.0\Server.pdb
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.dll
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\refint\Server.dll
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.pdb
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+D:\Project LTM\ChatLopHocTCP_DonGian\Server\obj\Debug\net8.0\ref\Server.dll
